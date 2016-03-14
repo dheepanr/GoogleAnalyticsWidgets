@@ -1,0 +1,17 @@
+/*-- Chart --*/
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400);
+.c3-tooltip th{
+ font-family: 'Open Sans', sans-serif;
+ font-weight: 400;
+
+}
+
+h3 {
+   background-color: #dddfe1 !important;
+   font-family: 'Open Sans', sans-serif;
+ font-weight: 300;
+ /*color: #003865;*/
+ color: #455560;
+ text-align: center;
+
+}
